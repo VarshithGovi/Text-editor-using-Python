@@ -7,6 +7,7 @@ def open_file():
         with open(file_path, 'r') as file:
             text.delete("1.0", tk.END)
             text.insert(tk.END, file.read())
+            
 
 def save_file():
     file_path = filedialog.asksaveasfilename(filetypes=[("Text files", "*.txt")])
