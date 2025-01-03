@@ -46,4 +46,6 @@ A lightweight and responsive text editor built with Python's Tkinter library. Th
   
 - README.md: Project documentation.
 
+# 🤝 Contributing
 
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
