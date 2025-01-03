@@ -51,6 +51,6 @@ A lightweight and responsive text editor built with Python's Tkinter library. Th
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 ## 📜 License
-[MIT License](LICENSE)
+ This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
 
 ## ⭐ Don’t forget to star this repo if you found it helpful!
