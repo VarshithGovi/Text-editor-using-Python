@@ -42,7 +42,7 @@ A lightweight and responsive text editor built with Python's Tkinter library. Th
 
 ## 📂 Repository Structure
 
-- **`main.py`**: The primary script for the text editor.
+- **[main.py](https://github.com/VarshithGovi/Text-editor-using-Python/blob/main/main.py)**: The primary script for the text editor.
 - **`README.md`**: Project documentation.
 
 
