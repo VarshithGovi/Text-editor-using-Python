@@ -1,6 +1,6 @@
 # 📝 Text Editor Using Python
 
-A lightweight and responsive text editor built with Python's Tkinter library. This project demonstrates the core principles of GUI development, offering essential features like file opening, editing, and saving for **`.txt`** files. It serves as a practical example of Python’s versatility in real-world applications, perfect for exploring GUI programming.
+A lightweight and responsive text editor built with Python's Tkinter library. This project demonstrates the core principles of GUI development, offering essential features like file opening, editing, and saving for **`.txt`** files. It is a practical example of Python’s versatility in real-world applications, perfect for exploring GUI programming.
 
 ## 🌟 Features
 
